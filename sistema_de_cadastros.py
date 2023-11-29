@@ -10,6 +10,7 @@ branco = '#ffffff'
 
 # CRIAÇÃO DA JANELA:
 program = CTk()
+program.title('Sistema de cadastros com Python e SQL')
 program.geometry("500x300")
 set_appearance_mode("dark")
 
