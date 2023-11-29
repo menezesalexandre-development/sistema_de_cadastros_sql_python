@@ -8,5 +8,5 @@
 <div>
 <p><img align="left" src="prints_img/Screenshot_1.png" width=380/></p>
  
-<p><img align="right" src="prints_img/Screenshot_2.png" width=395/></p>
+<p><img align="right" src="prints_img/Screenshot_2.png" width=400/></p>
 </div>
