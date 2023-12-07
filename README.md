@@ -10,8 +10,9 @@
 </div>
 
 <div align="center">
-
-[Repositório do GitHub](https://github.com/menezesalexandre-development/sistema_de_cadastros_sql_python)
+ 
+ <a href="https://github.com/menezesalexandre-development/sistema_de_cadastros_sql_python">Repositório do GitHub</a>
+ <a href="https://github.com/menezesalexandre-development/sistema_de_cadastros_sql_python/releases/tag/sistema_de_cadastros">Download do executável</a>
 
 </div>
 
